@@ -1,6 +1,0 @@
-{
-  "name": "Molecular Evolution Simulator",
-  "description": "An interactive React application that simulates chemical evolution using an evolutionary algorithm. Users can define target molecular properties and observe molecules evolving towards those properties.",
-  "requestFramePermissions": [],
-  "prompt": ""
-}
